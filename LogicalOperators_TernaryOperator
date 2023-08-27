@@ -1,0 +1,48 @@
+// Given the year of birth, if the age is between 13 and 19 (both included) print Teenage and in between 20 and 29 (both included) print Twenties
+
+
+let dob=2010;
+let age=2023-dob;
+
+if(age>=13 && age<=19){
+  console.log("Teenage")
+}else if(age>=20 && age<=29){
+  console.log("Twenties")
+}
+
+
+
+// Given any character, if it is a vowel print "Vowel"
+
+let alphabet = "a";
+
+(alphabet == "a" || alphabet == "e" || alphabet == "i"|| alphabet == "o" || alphabet == "u") ? console.log("Vowel"): console.log("Is not Vowel")
+
+
+// Given and character if it is a consonant print "Consonant"
+
+let Consonant="p";
+
+(Consonant=="b"||Consonant=="c" ||Consonant=="d" ||Consonant=="f" || Consonant=="g" || Consonant=="h" || Consonant=="j" || Consonant=="k" || Consonant=="l" ||Consonant=="m" || Consonant=="n" ||Consonant=="p" || Consonant=="q" || Consonant=="r" || Consonant=="s" || Consonant=="t" || Consonant=="v" || Consonant=="w"|| Consonant=="x" ||Consonant=="y" || Consonant=="z") ? console.log("Consonant") : console.log(" Is not Consonnat");
+
+
+
+
+// Given 3 numbers (all different values), print which is greatest
+
+let a= 10;
+let b=20;
+let c= 25;
+
+if(a>b && a>c)
+{
+  console.log("A is grater than");
+}
+else if(b>a && b>c)
+{
+  console,log("B is grater than");
+}
+else if(c>a && c>b)
+{
+  console.log("C is greater than")
+}
