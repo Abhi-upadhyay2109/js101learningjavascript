@@ -1,0 +1,29 @@
+console.log("masai school");
+console.log("A Transformation in Education");
+
+
+
+let name = "Abhishek upadhyay"
+console.log(name);
+fathername="Gangesh upadhay"
+console.log(fathername);
+mothername="sangeeta upadhyay"
+console.log(mothername);
+
+
+
+let name = "Abhishek upadhyay"
+age= 21
+console.log(name,age);
+console.log(typeof name, typeof age);
+
+
+console.log(`*****************     🅡 🅔 🅢 🅤 🅛 🅣      ******************`);
+console.log(`*    NAME    ➡️➡️➡️➡️➡️       𝔸𝕓𝕙𝕚𝕤𝕙𝕖𝕜 𝕦𝕡𝕒𝕕𝕙𝕪𝕒𝕪`);
+console.log(`*    SCHOOL  ➡️➡️➡️➡️➡️  Ⓙ Ⓐ Ⓦ Ⓐ Ⓗ Ⓐ Ⓡ ⓁⒶⓁ Ⓢ Ⓒ Ⓗ Ⓞ Ⓞ Ⓛ`);
+console.log(`*    GRADE   ➡️➡️➡️➡️➡️            ᶠᴵᴿᔆᵀ ᶜᴸᴬᔆᔆ`);
+console.log(`*    SECTION   ➡️➡️➡️➡️➡️            🅰`);
+console.log(`*    ROLL NUMBER   ➡️➡️➡️➡️➡️          𝟏`);
+console.log(`********************* MARKS SCORED ********************`);
+console.log(`*******   Math       English     Science   ********`);
+console.log(`********   𝟡𝟝👍        𝟟𝟘👌        𝟠𝟝✌️   *******`);
